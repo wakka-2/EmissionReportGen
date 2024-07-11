@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wakka-2&label=Profile%20views&color=0e75b6&style=flat" alt="wakka-2" /> </p>
 
-- 🔭 I’m currently working on [CO2 Emission Report Generator](https://github.com/wakka-2/EmissionReportCreator)
-
 - 💬 Ask me about **Android Development**
 
 - 📫 How to reach me **wakka-2@hotmail.com**
@@ -25,11 +23,6 @@ This is a simple emisssion report generator, written in `Python` by `@wakka-2.` 
 
 <p id="description">Our generator not only simplifies CO2 emission analysis but also allows clients to tailor reports to their specific needs. With an intuitive interface and customizable features it puts control in the hands of users enabling them to modify reports effortlessly. Join us in empowering individuals and organizations to make meaningful contributions to sustainability efforts.</p>
 
-<h2>Project Screenshots:</h2>
-
-<img src="https://i.postimg.cc/N0yJdq6y/Capture1.png" alt="project-screenshot" width="400" height="400/">
-
-<img src="https://i.postimg.cc/LXLyMt02/Capture2.png" alt="project-screenshot" width="400" height="400/">
 
 ```
 What the program does? 
